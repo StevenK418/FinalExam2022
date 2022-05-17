@@ -18,6 +18,8 @@ namespace FinalExam2022
             Share
         }
 
+        public RentalType rentalType { get; set; }
+
         public string Location { get; set; }
         public decimal Price { get; set; }
         public string Description { get; set; }
@@ -38,6 +40,14 @@ namespace FinalExam2022
 
             //Return the result
             return AdjusteRentAmount;
+        }
+
+        public RentalProperty(decimal Price, RentalProperty.RentalType TypeOfRental, string Description, string Location)
+        {
+            this.Price = Price;
+            this.rentalType = TypeOfRental;
+            this.Description = Description;
+            this.Location = Location;
         }
 
         /// <summary>

@@ -13,3 +13,10 @@ C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2
 C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022.csproj.CoreCompileInputs.cache
 C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022.exe
 C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022.pdb
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\bin\Debug\EntityFramework.dll
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\bin\Debug\EntityFramework.xml
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\AddProperty.g.cs
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\AddProperty.baml
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022.csproj.CopyComplete

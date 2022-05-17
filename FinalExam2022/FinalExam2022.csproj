@@ -68,6 +68,7 @@
     <Compile Include="AddProperty.xaml.cs">
       <DependentUpon>AddProperty.xaml</DependentUpon>
     </Compile>
+    <Compile Include="DatabaseManager.cs" />
     <Compile Include="RentalProperty.cs" />
     <Page Include="AddProperty.xaml">
       <SubType>Designer</SubType>

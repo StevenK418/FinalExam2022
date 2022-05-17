@@ -24,5 +24,14 @@ namespace FinalExam2022
         {
             InitializeComponent();
         }
+
+        private void BTN_Add_Click(object sender, RoutedEventArgs e)
+        {
+            //Create  anew instance of the Add Property window class
+            AddProperty addPropertyWindow = new AddProperty();
+
+            //Display the add property window. 
+            addPropertyWindow.Show();
+        }
     }
 }
