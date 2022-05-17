@@ -22,5 +22,21 @@ namespace FinalExam2022
         public string Description { get; set; }
 
 
+        /// <summary>
+        /// Adjusts thee rent amount by a given percentage
+        /// </summary>
+        /// <param name="percent"></param>
+        /// <returns></returns>
+        private decimal IncreaseRentByPercentageAmount(decimal percent)
+        {
+            //declare new variable to store the new amount
+            decimal AdjusteRentAmount = 0;
+
+            //Calculate the new price and store
+            AdjusteRentAmount = Price * percent;
+
+            //Return the result
+            return AdjusteRentAmount;
+        }
     }
 }
