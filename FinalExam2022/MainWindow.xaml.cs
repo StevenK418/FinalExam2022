@@ -53,5 +53,17 @@ namespace FinalExam2022
             //Get all the properties in the db and set as listbox datasource. 
             LSTBX_Properties.ItemsSource = dbManager.GetAllPropertiesFromDB();
         }
+
+        private void LSTBX_Properties_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            //Get a refernece to the sending listbox of the event
+            ListBox box = (ListBox)sender;
+
+            //Get a reference to the newly selected property
+            RentalProperty selectedProperty = (RentalProperty)box.SelectedItem;
+
+            //Get the description of the selected object and display in the texblock
+            TBLK_Description.Text = selectedProperty.Description;
+        }
     }
 }
