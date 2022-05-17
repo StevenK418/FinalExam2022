@@ -1,0 +1,15 @@
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\bin\Debug\FinalExam2022.exe.config
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\bin\Debug\FinalExam2022.exe
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\bin\Debug\FinalExam2022.pdb
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022.csproj.AssemblyReference.cache
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\MainWindow.g.cs
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\App.g.cs
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022_MarkupCompile.cache
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022_MarkupCompile.lref
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\MainWindow.baml
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022.g.resources
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022.Properties.Resources.resources
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022.csproj.GenerateResource.cache
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022.csproj.CoreCompileInputs.cache
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022.exe
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022\obj\Debug\FinalExam2022.pdb

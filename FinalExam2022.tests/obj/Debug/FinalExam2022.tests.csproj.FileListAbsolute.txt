@@ -1,0 +1,17 @@
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\FinalExam2022.tests.dll
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\FinalExam2022.tests.pdb
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\FinalExam2022.exe
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\FinalExam2022.pdb
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\FinalExam2022.exe.config
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\obj\Debug\FinalExam2022.tests.csproj.AssemblyReference.cache
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\obj\Debug\FinalExam2022.tests.csproj.CoreCompileInputs.cache
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\obj\Debug\FinalExam2022.tests.csproj.CopyComplete
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\obj\Debug\FinalExam2022.tests.dll
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\obj\Debug\FinalExam2022.tests.pdb

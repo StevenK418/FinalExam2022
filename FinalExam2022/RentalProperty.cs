@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FinalExam2022
 {
-    class RentalProperty
+    public class RentalProperty
     {
         public int RentalPropertyID { get; set; }
 
@@ -27,7 +27,7 @@ namespace FinalExam2022
         /// </summary>
         /// <param name="percent"></param>
         /// <returns></returns>
-        private decimal IncreaseRentByPercentageAmount(decimal percent)
+        public decimal IncreaseRentByPercentageAmount(decimal percent)
         {
             //declare new variable to store the new amount
             decimal AdjusteRentAmount = 0;
