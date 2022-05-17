@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label Content="Property Listing" HorizontalAlignment="Left" Margin="23,22,0,0" VerticalAlignment="Top" Width="208" FontSize="24"/>
+        <ListBox x:Name="LSTBX_Properties" HorizontalAlignment="Left" Height="289" Margin="23,82,0,0" VerticalAlignment="Top" Width="258"/>
+        <Button x:Name="BTN_Add" Content="Add" HorizontalAlignment="Left" Margin="587,82,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBlock x:Name="TBLK_Description" HorizontalAlignment="Left" Margin="316,89,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="169" Width="238"/>
+
     </Grid>
 </Window>
