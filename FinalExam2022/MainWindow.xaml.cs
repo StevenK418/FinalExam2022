@@ -3,7 +3,8 @@
  *  ID:         S00200293
  *  GithubL     https://github.com/StevenK418/FinalExam2022.git
  *  Dev Notes: Most changes are on the develop branch of the repo. 
- **/
+ *
+ */
 
 using System;
 using System.Collections.Generic;
@@ -43,11 +44,14 @@ namespace FinalExam2022
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-           
+            //Create  new dbmanager instance
+            DatabaseManager dbManager = new DatabaseManager();
+
             //Populate the db with initial data
             DatabaseManager.InitializeDatabaseWithData();
 
-            //LSTBX_Properties.ItemsSource = 
+            //Get all the properties in the db and set as listbox datasource. 
+            LSTBX_Properties.ItemsSource = dbManager.GetAllPropertiesFromDB();
         }
     }
 }

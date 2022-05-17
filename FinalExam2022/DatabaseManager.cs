@@ -81,5 +81,24 @@ namespace FinalExam2022
             //Pass the new popeties to the add to database method. 
             AddToDatabase(rentalProperties);
         }
+
+
+        /// <summary>
+        /// Gets a list of properties from the db
+        /// </summary>
+        /// <returns></returns>
+        public List<RentalProperty> GetAllPropertiesFromDB()
+        {
+            //Use new dbcontext to avoid disposal error. 
+            using (db = new RentalProperty.RentalPropertyData())
+            {
+                //Query the database for all properties
+                var query = from p in db.RentalProperties
+                            select p;
+
+                //Convert the results to a list and return
+                return query.ToList();
+            }
+        }
     }
 }
