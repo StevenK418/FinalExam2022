@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ *  Name:       Steven Kelly
+ *  ID:         S00200293
+ *  GithubL     https://github.com/StevenK418/FinalExam2022.git
+ *  Dev Notes: Most changes are on the develop branch of the repo. 
+ **/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -32,6 +39,15 @@ namespace FinalExam2022
 
             //Display the add property window. 
             addPropertyWindow.Show();
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+           
+            //Populate the db with initial data
+            DatabaseManager.InitializeDatabaseWithData();
+
+            //LSTBX_Properties.ItemsSource = 
         }
     }
 }

@@ -42,6 +42,10 @@ namespace FinalExam2022
             return AdjusteRentAmount;
         }
 
+        //Default Constructor
+        public RentalProperty() { }
+
+        //Parametrised Constructor
         public RentalProperty(decimal Price, RentalProperty.RentalType TypeOfRental, string Description, string Location)
         {
             this.Price = Price;

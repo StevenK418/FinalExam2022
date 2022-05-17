@@ -15,3 +15,5 @@ C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\obj\Debug\Fina
 C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\obj\Debug\FinalExam2022.tests.csproj.CopyComplete
 C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\obj\Debug\FinalExam2022.tests.dll
 C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\obj\Debug\FinalExam2022.tests.pdb
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\EntityFramework.dll
+C:\Users\S00200293\source\repos\FinalExam2022\FinalExam2022.tests\bin\Debug\EntityFramework.xml
