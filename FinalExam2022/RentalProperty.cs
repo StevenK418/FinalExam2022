@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace FinalExam2022
 {
@@ -37,6 +38,24 @@ namespace FinalExam2022
 
             //Return the result
             return AdjusteRentAmount;
+        }
+
+        /// <summary>
+        /// Overrides the ToString method of the parent Object class.
+        /// </summary>
+        /// <returns>Returns a formatted string of the movie Title and Year.</returns>
+        public override string ToString()
+        {
+            return string.Format($"{Location} - {Price}");
+        }
+
+        public class RentalPropertyData : DbContext
+        {
+            public RentalPropertyData() : base("RentalPropertyData")
+            {
+            }
+
+            public DbSet<RentalProperty> RentalProperties { get; set; }
         }
     }
 }
